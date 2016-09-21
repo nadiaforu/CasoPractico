@@ -23,3 +23,8 @@ public void fijarNum1(int n){
     public void fijarNum2(int n){
         num2=n;
     }
+
+public int sumar(){
+        int sum=num1+num2;
+        return sum;
+    }
