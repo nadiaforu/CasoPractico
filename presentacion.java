@@ -18,7 +18,7 @@ public class Presentacion {
         Calculadora cal=new Calculadora();
         
       
-        System.out.println("Suma: "+cal.sumar());
+          System.out.println("Suma: "+cal.sumar());
         System.out.println("Resta: "+cal.restar());
         System.out.println("Multiplicar: "+cal.multiplicar());
         System.out.println("Dividir: "+cal.dividir());
